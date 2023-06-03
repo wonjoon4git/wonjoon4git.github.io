@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Wonjoon Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "UCLA Cognitive Science BS /n Columbia Computer Science MS"
+  bio              : "UCLA Cognitive Science BS ", "Columbia Computer Science MS"
   location         : "NYC, New York, USA"
   email            : "wonjoonboy55@gmail.com"
   links:
