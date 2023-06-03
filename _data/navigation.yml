@@ -5,7 +5,7 @@ main:
   #- title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Python"
-     url: ../_posts/python/
+     url: ../_posts/Python/
   - title: "AI/ML"
      url: ../_posts/AI_ML/
   # - title: "Sitemap"
