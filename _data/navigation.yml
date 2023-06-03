@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Python"
-     url: /Python/
-  - title: "AI/ML"
-     url: /AI_ML/
+ # - title: "Python"
+  #   url: /Python/
+ # - title: "AI/ML"
+ #    url: /AI_ML/
   # - title: "Sitemap"
   #   url: /sitemap/
