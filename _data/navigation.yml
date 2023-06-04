@@ -3,7 +3,7 @@ main:
   - title: "Category"
     url: /categories/
   - title: "Tag"
-     url: /tags/
+    url: /tags/
   #- title: "Python"
   #   url: /Python/
   #- title: "AI/ML"
