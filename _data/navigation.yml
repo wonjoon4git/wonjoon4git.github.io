@@ -10,3 +10,11 @@ main:
   #   url: /AI_ML/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+#side bar navigation
+  #- title: ""
+    #children:
+      #- title: "Category"
+        #url: /categories/ 
+      #- title: "Tag"
+        #url: /tags/ 
