@@ -1,7 +1,4 @@
----
-layout: single
-title:  "Predicting Forest Fire with Mesa"
----
+
 
 ### The goal of this simulation is to implement the Forest Fire Model using an objected oriented approach using Mesa Agent.
 
