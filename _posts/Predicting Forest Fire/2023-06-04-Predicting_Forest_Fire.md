@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Predicting Forest Fire with Mesa"
-categories: Machine Learning
-tag: [Machine Learning, Mesa]
+categories: Machine_Learning
+tag: [Machine_Learning, Mesa]
 toc: true #table of contents
 author_profile: false 
 # sidebar: 
