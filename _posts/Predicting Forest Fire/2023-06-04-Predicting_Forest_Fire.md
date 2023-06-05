@@ -1,12 +1,6 @@
 ---
 layout: single
 title:  "Predicting Forest Fire with Mesa"
-categories: Machine_Learning
-tag: [Machine_Learning, Mesa]
-toc: true #table of contents
-author_profile: false 
-# sidebar: 
-#	nav: "docs"
 ---
 
 ### The goal of this simulation is to implement the Forest Fire Model using an objected oriented approach using Mesa Agent.
