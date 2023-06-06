@@ -127,7 +127,7 @@ two_row_visualization(train_dataset)
 
 
     
-![png](output_10_0.png)
+![png](/assets/images/Image Classification/output_10_0.png)
     
 
 
@@ -298,7 +298,7 @@ plt.legend()
 
 
     
-![png](output_22_1.png)
+![png](/assets/images/Image Classification/output_22_1.png)
     
 
 
@@ -335,7 +335,7 @@ for image, _ in train_dataset.take(1):
 
 
     
-![png](output_27_0.png)
+![png](/assets/images/Image Classification/output_27_0.png)
     
 
 
@@ -360,7 +360,7 @@ for image, _ in train_dataset.take(1):
 
 
     
-![png](output_29_0.png)
+![png](/assets/images/Image Classification/output_29_0.png)
     
 
 
@@ -461,7 +461,7 @@ plt.legend()
 
 
     
-![png](output_35_1.png)
+![png](/assets/images/Image Classification/output_35_1.png)
     
 
 
@@ -585,7 +585,7 @@ plt.legend()
 
 
     
-![png](output_45_1.png)
+![png](/assets/images/Image Classification/output_45_1.png)
     
 
 
@@ -766,7 +766,7 @@ plt.legend()
 
 
     
-![png](output_57_1.png)
+![png](/assets/images/Image Classification/output_57_1.png)
     
 
 
@@ -826,7 +826,7 @@ for i in range(9):
 
 
     
-![png](output_62_1.png)
+![png](/assets/images/Image Classification/output_62_1.png)
     
 
 
