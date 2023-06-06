@@ -4,7 +4,7 @@ classes: wide
 title:  "Predicting Forest Fire with Mesa"
 categories: 
   - Machine Learning
-tag: [Machine Learning, Mesa]
+tag: [Mesa]
 toc: true 
 author_profile: false 
 sidebar:
@@ -38,8 +38,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 ```
 
-To learn more about Mesa: Agent-Based modeling, read the following: 
-https://mesa.readthedocs.io/en/stable/
+To learn more about Mesa: Agent-Based modeling, read [this](https://mesa.readthedocs.io/en/stable/)
 
 ### Define Helper Functions 
 

@@ -1,3 +1,16 @@
+--
+layout: single
+classes: wide
+title:  "Predicting Forest Fire with Mesa"
+categories: 
+  - Machine Learning
+tag: [Image Classification, Tensorflow, Data Augmentation,Data Preprocessing, Transfer Learning ]
+toc: true 
+author_profile: false 
+sidebar:
+    nav: "counts"
+---
+
 # Overview
 *Can you teach a machine learning algorithm to distinguish between pictures of dogs and pictures of cats?*
 
