@@ -300,7 +300,7 @@ FM.show_snapshot(0,ax)
 
 
     
-![png](/assets/images/output_12_0.png)
+![png](/assets/images/Predicting Forest Fire/output_12_0.png)
     
 
 
@@ -337,7 +337,7 @@ FM.show_snapshot(1,ax)
 
 
     
-![png](/assets/images/output_17_0.png)
+![png](/assets/images/Predicting Forest Fire/output_17_0.png)
     
 
 
@@ -358,7 +358,7 @@ FM.show_hist(0,5)
 
 
     
-![png](/assets/images/output_19_0.png)
+![png](/assets/images/Predicting Forest Fire/output_19_0.png)
     
 
 
@@ -377,7 +377,7 @@ FM.show_hist(6,12)
 
 
     
-![png](/assets/images/output_22_0.png)
+![png](/assets/images/Predicting Forest Fire/output_22_0.png)
     
 
 
@@ -390,7 +390,7 @@ FM.show_hist(0,end)
 
 
     
-![png](/assets/images/output_23_0.png)
+![png](/assets/images/Predicting Forest Fire/output_23_0.png)
     
 
 
@@ -444,7 +444,7 @@ FM.show_snapshot(end,ax)
 
 
     
-![png](/assets/images/output_26_0.png)
+![png](/assets/images/Predicting Forest Fire/output_26_0.png)
     
 
 
@@ -467,7 +467,7 @@ print(FM.summarize())
 
 
     
-![png](/assets/images/output_29_0.png)
+![png](/assets/images/Predicting Forest Fire/output_29_0.png)
     
 
 
@@ -492,7 +492,7 @@ print(FM.summarize())
 
 
     
-![png](/assets/images/output_31_0.png)
+![png](/assets/images/Predicting Forest Fire/output_31_0.png)
     
 
 
@@ -526,6 +526,6 @@ print(FM.summarize())
 
 
     
-![png](/assets/images/output_33_1.png)
+![png](/assets/images/Predicting Forest Fire/output_33_1.png)
     
 
