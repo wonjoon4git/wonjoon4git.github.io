@@ -15,13 +15,7 @@ main:
 
 #side bar navigation
 docs:
-  - title: "Navigation1"
-    children:
-      - title: "Category"
-        url: /categories/ 
-      - title: "Tag"
-        url: /tags/ 
-  - title: "Navigation2"
+  - title: "Navigation"
     children:
       - title: "Category"
         url: /categories/ 
