@@ -15,9 +15,21 @@ main:
 
 #side bar navigation
 docs:
-  - title: "Navigation"
+  - title: "Navigation1"
     children:
       - title: "Category"
         url: /categories/ 
       - title: "Tag"
-        url: /tags/
+        url: /tags/ 
+  - title: "Navigation2"
+    children:
+      - title: "Category"
+        url: /categories/ 
+      - title: "Tag"
+        url: /tags/ 
+
+counts: 
+  - title: "Category"
+    use: true
+  - title: "Tag"
+    use: true
