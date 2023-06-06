@@ -5,6 +5,7 @@ categories: Machine Learning
 tag: [Machine Learning, Mesa]
 toc: true #table of contents
 author_profile: false 
+classes: wide
 # sidebar: 
 # nav: "docs"
 ---
