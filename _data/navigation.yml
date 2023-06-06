@@ -14,9 +14,16 @@ main:
   #   url: /sitemap/
 
 #side bar navigation
-  #- title: ""
-    #children:
-      #- title: "Category"
-        #url: /categories/ 
-      #- title: "Tag"
-        #url: /tags/ 
+docs:
+  - title: "Navigation"
+    children:
+      - title: "Category"
+        url: /categories/ 
+      - title: "Tag"
+        url: /tags/ 
+
+counts: 
+    - title: "Category"
+      use: true
+    - title: "Tag"
+      use: true
