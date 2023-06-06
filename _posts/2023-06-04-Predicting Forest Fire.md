@@ -7,8 +7,8 @@ tag: [Machine Learning, Mesa]
 toc: true #table of contents
 author_profile: false 
 classes: wide
-sidebar: true
-nav: "docs"
+sidebar:
+	nav: "counts"
 ---
 
 **The goal of this simulation is to implement the Forest Fire Model using an objected oriented approach using Mesa Agent.**
