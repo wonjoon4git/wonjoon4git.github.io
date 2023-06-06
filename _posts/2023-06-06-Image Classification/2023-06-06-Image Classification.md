@@ -1,7 +1,7 @@
---
+---
 layout: single
 classes: wide
-title:  "Predicting Forest Fire with Mesa"
+title:  "Image Classification: Cats & Dogs"
 categories: 
   - Machine Learning
 tag: [Image Classification, Tensorflow, Data Augmentation,Data Preprocessing, Transfer Learning ]
