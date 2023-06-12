@@ -20,7 +20,7 @@ title                    : "WJ Tech Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "WJ Tech Blog"
-description              : "Tech Blog"
+description              : "Tech Blog Interested in AI & ML"
 url                      : "https://wonjoon4git.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
