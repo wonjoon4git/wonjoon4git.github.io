@@ -1,3 +1,16 @@
+---
+layout: single
+classes: wide
+title:  "Linear Associator Exercise"
+categories: 
+  - Machine Learning
+tag: [Linear Associator, Classification]
+toc: true 
+author_profile: false 
+sidebar:
+    nav: "counts"
+---
+
 # Preface
 The goal of this post is training a linear associator to identify the origins of ships based on sensor scans, so that the Enterprise will be able to take appropriate action when another ship approaches.
 
