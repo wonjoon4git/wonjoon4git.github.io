@@ -10,7 +10,6 @@ author_profile: false
 sidebar:
     nav: "counts"
 ---
-
 # Markov Models of Natural Language Processing
 
 
