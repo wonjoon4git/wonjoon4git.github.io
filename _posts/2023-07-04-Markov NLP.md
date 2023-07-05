@@ -35,11 +35,12 @@ len(s)
 
 
 
-
 ```python
+
 s = ""
 # Original text rxcluded due to length
 # Basically the whole chapter of a novel
+```
 
 
 
