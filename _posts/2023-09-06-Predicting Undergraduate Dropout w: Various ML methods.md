@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title:  "Markov NLP"
+title:  "Predicting Undergraduate Dropout w/ Various ML models"
 categories: 
   - Machine Learning
 tag: [Data Preprocessing, Classification, Linear Associator, PyTorch]
