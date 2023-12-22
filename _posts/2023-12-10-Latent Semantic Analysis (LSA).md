@@ -16,7 +16,7 @@ sidebar:
 # Latent Semantic Analysis
 **Latent Semantic Analysis (LSA)** is a method that uses **Singular Value Decomposition (SVD)** to explore relationships between documents and their constituent words. Here, we will apply a simplified form of LSA to a subset of Yelp restaurant reviews.
 
-The dataset, contained in "reviews limited vocab.txt", includes 100,000 reviews from a training set, each review on a separate line. This dataset has been filtered to remove less common words, leaving a vocabulary of 1,731 words. From this data, we construct an $n × d$ "document-term" matrix *A*, where "n" is the number of reviews (100,000) and "d" is the number of words in the vocabulary (1,731). Each element $A_{i,j}$ in this matrix indicates how many times word "j" appears in review "i".
+The dataset, contained in "reviews limited vocab.txt", includes 100,000 reviews from a training set, each review on a separate line. This dataset has been filtered to remove less common words, leaving a vocabulary of 1,731 words. From this data, we construct an n × d "document-term" matrix *A*, where "n" is the number of reviews (100,000) and "d" is the number of words in the vocabulary (1,731). Each element A_{i,j} in this matrix indicates how many times word "j" appears in review "i".
 
 In this matrix:
 - Each row represents a different review, showing the frequency of each word in that review.
