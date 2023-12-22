@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title:  "Steps for Studying Natural Language Processing (NLP)"
+title:  "Steps for Studying NLP"
 categories: 
   - NLP
 tag: [General]
