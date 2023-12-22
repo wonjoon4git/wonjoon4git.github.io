@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title:  "Image Classification: Cats & Dogs"
 categories: 
-  - Machine Learning
+  - CV
 tag: [Image Classification, Tensorflow, Data Augmentation,Data Preprocessing, Transfer Learning ]
 toc: true 
 author_profile: false 

@@ -3,8 +3,8 @@ layout: single
 classes: wide
 title:  "Markov NLP"
 categories: 
-  - Machine Learning
-tag: [NLP]
+  - NLP
+tag: [Markov NLP]
 toc: true 
 author_profile: false 
 sidebar:

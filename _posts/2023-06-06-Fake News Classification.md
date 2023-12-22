@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title:  "Fake News Classification"
 categories: 
-  - Machine Learning
+  - NLP
 tag: [Tensorflow]
 toc: true 
 author_profile: false 
