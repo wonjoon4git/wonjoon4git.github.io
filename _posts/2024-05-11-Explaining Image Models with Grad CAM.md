@@ -4,7 +4,7 @@ classes: wide
 title:  "Explaining Image Models with Grad CAM"
 categories: 
   - CV
-tag: [Classification, Explainable AI]
+tag: [Explainable AI]
 toc: true 
 author_profile: false 
 sidebar:
@@ -13,7 +13,7 @@ sidebar:
 
 # Grad CAM Demonstration 
 
-Machine Learning models are often reffered as a 'Black Box', due to its lack of explanability. We do not exactly know how the model came up with a conclusion whether a picture of an animal is a dog or a cat. 
+Machine Learning models are often referred as a 'Black Box', due to its lack of explanability. We do not exactly know how the model came up with a conclusion whether a picture of an animal is a dog or a cat. 
 
 Luckily, there are couple techniques out there to grant better explainability of how the model comes up with such conclusion. In this post, we will take a brief look into one of the most popular method, Grad CAM
 
